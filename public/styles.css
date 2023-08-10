@@ -19,17 +19,17 @@ table {
 }
 
 th {
-    background-color: #ef0303;
+    background-color: #0381ef;
     border: 1.5px solid #000000;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     padding: 8px;
     text-align: left;
     hyphens: auto;
 }
 
 td {
-    background-color: #ff5100b5;
-    color: rgb(255, 255, 255);
+    background-color: #0099ffb5;
+    color: rgb(0, 0, 0);
     border: 1.5px solid #000000;
     padding: 8px;
     text-align: left;
